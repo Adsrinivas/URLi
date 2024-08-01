@@ -1,5 +1,11 @@
-## URLi
-This script automates the installation of various security tools and performs a series of actions to identify and analyze live domains. The script checks for the existence of required tools, installs them if necessary, and executes several steps to gather and process URLs.
+<h1 align="center">
+URLi
+</h1>
+<h4 align="center">This script automates the installation of various security tools and performs a series of actions to identify and analyze live domains. The script checks for the existence of required tools, installs them if necessary, and executes several steps to gather and process URLs.</h4>
+
+<p align="center">
+<a href="https://twitter.com/S_Alluru_"><img src="https://img.shields.io/twitter/follow/S_Alluru_.svg?logo=twitter"></a>
+</p>
 
 ### Prerequisites
 
