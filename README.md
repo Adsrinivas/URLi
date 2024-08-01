@@ -95,6 +95,12 @@ The script performs the following steps:
    ```
 5. Follow the prompts to provide the path to your `subdomains.txt` file.
 
+### How URLi Script Works:
+
+https://github.com/user-attachments/assets/ef7a2ac4-ae66-486b-9bbc-a0044efed1d9
+
+
+
 ### Output
 
 The script generates an output directory named `URLi_Output` with a timestamp. The main output files are:
